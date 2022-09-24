@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DataStorage</string>
+    <string name="your_age">Your age:</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string name="please_enter_your_age">Please, Enter your age:</string>
+</resources>
